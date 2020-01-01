@@ -1,7 +1,5 @@
-# Timeline
-> [param.me/timeline](https://www.param.me/timeline)
-
-___
+# [Timeline](https://www.param.me/timeline)
+> A timeline of my achievements and events
 
 ### Hack the North <kbd>September 2019</kbd>
 
