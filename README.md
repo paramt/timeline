@@ -1,6 +1,8 @@
 # Timeline
 > [param.me/timeline](https://www.param.me/timeline)
 
+___
+
 ### Hack the North <kbd>September 2019</kbd>
 
 Attended [Canada's largest hackathon](https://hackthenorth.com/) held at the University of Waterloo
