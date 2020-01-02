@@ -16,6 +16,7 @@ exit_status = 0
 print(f"Collecting URLs from {csv_file}")
 
 with open(csv_file) as f:
+    events = []
     lines = f.readlines()
 
     for l in  csv.reader(lines, quotechar='"', delimiter=',', skipinitialspace=True):
