@@ -1,4 +1,4 @@
-# [Timeline](https://www.param.me/timeline)
+# [Timeline](https://www.param.me/timeline) ![Broken Link Status](https://github.com/paramt/timeline/workflows/Check%20URLs/badge.svg)
 > A timeline of my achievements and events
 
 ### Hack the North <kbd>September 2019</kbd>
