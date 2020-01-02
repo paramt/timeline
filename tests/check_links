@@ -13,7 +13,7 @@ csv_file = "_data/timeline.csv"
 links = []
 exit_status = 0
 
-print(f"Collecting URLs from {projects_file}")
+print(f"Collecting URLs from {csv_file}")
 
 with open(csv_file) as f:
     lines = f.readlines()
@@ -21,9 +21,9 @@ with open(csv_file) as f:
     for l in  csv.reader(lines, quotechar='"', delimiter=',', skipinitialspace=True):
         events.append(l[2])
 
-    projects.pop(0)
+    events.pop(0)
 
-links += projects
+links += events
 
 print(f"Collecting URLs from {markdown_file}")
 
