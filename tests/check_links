@@ -24,7 +24,8 @@ with open(csv_file) as f:
 
     events.pop(0)
 
-links += events
+extractor = URLExtract()
+links += extractor.find_urls(" ".join(events))
 
 print(f"Collecting URLs from {markdown_file}")
 
