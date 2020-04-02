@@ -2,7 +2,7 @@
 # -*- coding: UTF-8 -*-
 
 # List of URLs to skip over
-blacklisted = ["https://go.param.me/spellbind"]
+blacklisted = ["https://go.param.me/spellbind", "https://web.archive.org/web/20170204071134/http://appinventor.mit.edu/explore/app-month-gallery.html"]
 
 import csv
 import requests
