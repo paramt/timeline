@@ -1,6 +1,16 @@
 # [Timeline](https://www.param.me/timeline) ![Broken Link Status](https://github.com/paramt/timeline/workflows/Check%20URLs/badge.svg)
 > A timeline of my achievements and events
 
+### Skills Ontario <kbd>June 2020</kbd>
+
+Represented Peel District School Board at the Virtual Skills Ontario coding competition
+___
+
+### Hack the Valley <kbd>February 2020</kbd>
+
+Built a demo for [OpenED](https://opened.tech) – a platform for students to voice their opinions – at University of Toronto's hackathon
+___
+
 ### Hack the North <kbd>September 2019</kbd>
 
 Attended [Canada's largest hackathon](https://hackthenorth.com/) held at the University of Waterloo
