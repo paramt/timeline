@@ -1,6 +1,11 @@
 # [Timeline](https://www.param.me/timeline) ![Broken Link Status](https://github.com/paramt/timeline/workflows/Check%20URLs/badge.svg)
 > A timeline of my achievements and events
 
+### CANHack Mentor <kbd>July 2020</kbd>
+
+Mentored at Brampton Library's virtual hackathon
+___
+
 ### Skills Ontario <kbd>June 2020</kbd>
 
 Represented Peel District School Board at the Virtual Skills Ontario coding competition
