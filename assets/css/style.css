@@ -96,8 +96,8 @@ html, body, .container{
   color: white;
 }
 
-.content a:hover{
-  color: #4589f7;
+a:hover{
+  color: #70a5fb;
 }
 
 @media only screen and (max-width: 700px){
