@@ -1,6 +1,11 @@
 # [Timeline](https://www.param.me/timeline) ![Broken Link Status](https://github.com/paramt/timeline/workflows/Check%20URLs/badge.svg)
 > A timeline of my achievements and events
 
+### Most Proficient Junior NCO <kbd>July 2020</kbd>
+
+Received [an honorable mention](https://www.instagram.com/p/CCrhvqqMUNz) for the Most Proficient Junior NCO award at 845 Avro Arrow Squadron
+___
+
 ### CANHack Mentor <kbd>July 2020</kbd>
 
 Mentored at Brampton Library's virtual hackathon
