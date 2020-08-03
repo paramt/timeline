@@ -53,7 +53,7 @@ ___
 
 ### First Place in Gauss <kbd>May 2017</kbd>
 
-Presented StoAR at the 54-hour [Startup Weekend](https://bit.ly/2QMCQOf). The demo was pitched to a panel of judges, including an investor from Dragon's Den, and received third place.
+Ranked first place from my school *Allan A. Martin*, for writing the Gauss Math Contest
 ___
 
 ### App of the Month <kbd>January 2017</kbd>
