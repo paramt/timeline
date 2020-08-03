@@ -38,7 +38,7 @@ ___
 
 ### 3rd Place at Startup Weekend <kbd>November 2018</kbd>
 
-Presented StoAR at the 54-hour [Startup Weekend](https://bit.ly/2QMCQOf). The demo was pitched to a panel of judges, including an investor from Dragon's Den, and received third place.
+Presented StoAR at the 54-hour TechStars Startup Weekend. The demo was pitched to a panel of judges, including an investor from Dragon's Den, and received third place.
 ___
 
 ### First Place Pitch at Hackathon <kbd>September 2018</kbd>
