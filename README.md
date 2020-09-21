@@ -33,7 +33,7 @@ ___
 
 ### 100 Days of Running <kbd>May 2019</kbd>
 
-Completed the [100 Days of Running challenge](https://100daysofrunning.in/) and received a platinum medal.
+Completed the [100 Days of Running challenge](https://hdor.com/100-days-of-running/) and received a platinum medal.
 ___
 
 ### 3rd Place at Startup Weekend <kbd>November 2018</kbd>
