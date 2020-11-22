@@ -31,6 +31,16 @@ ___
 Built a demo for [OpenED](https://opened.tech) – a platform for students to voice their opinions – at University of Toronto's hackathon
 ___
 
+### Google Code-in <kbd>February 2020</kbd>
+
+Contributed to the open-source community by completing documentation, research, and design tasks for organizations
+___
+
+### Hacktoberfest <kbd>October 2019</kbd>
+
+Contributed to the open-source community by fixing issues and adding features to various GitHub repositories
+___
+
 ### Hack the North <kbd>September 2019</kbd>
 
 Attended [Canada's largest hackathon](https://hackthenorth.com/) held at the University of Waterloo
