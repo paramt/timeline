@@ -28,7 +28,7 @@ ___
 
 ### Hack the Valley <kbd>February 2020</kbd>
 
-Built a demo for [OpenED](https://opened.tech) – a platform for students to voice their opinions – at University of Toronto's hackathon
+Built a demo for [OpenED](https://www.param.me/open-ed) – a platform for students to voice their opinions – at University of Toronto's hackathon
 ___
 
 ### Google Code-in <kbd>February 2020</kbd>
