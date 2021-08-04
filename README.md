@@ -1,9 +1,19 @@
 # [Timeline](https://www.param.me/timeline) ![Broken Link Status](https://github.com/paramt/timeline/workflows/Check%20URLs/badge.svg)
 > A timeline of my achievements and events
 
+### Shad <kbd>July 2021</kbd>
+
+Completed the [Shad program](https://www.shad.ca/) virtually at the York University campus
+___
+
 ### Cybersecurity Challenge Winner <kbd>November 2020</kbd>
 
 Won the US Air Force Cybersecurity Challenge at HackRPI
+___
+
+### Canada Learning Code Ambassador <kbd>July 2021</kbd>
+
+Became a Teen Ambassador for [Canada Learning Code](https://www.canadalearningcode.ca/)
 ___
 
 ### AP Computer Science Exam <kbd>July 2020</kbd>
